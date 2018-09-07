@@ -42,6 +42,7 @@ Date of Birth: January 25, 1934 - August 2, 2002,
 Born where: Paris, France
 Works: 
 Opinion:
+I love his works because they give off the VHS static type of aesthetic with all the different toned down colors he uses. some appear to look like it came from a game, such as pac-man.
 
 2.
 
@@ -50,6 +51,7 @@ Date of Birth: May 12, 1936
 Born where: Malden, MA
 Works:
 Opinion:
+He uses color to make it seem that some objects are infront of another but it is only the color that is being changed if you look closely at the design.
 
 3.
 
@@ -58,3 +60,4 @@ Date of Birth: June 5, 1923- January 14, 2005
 Born where: Ciudad Bolívar, Venezuela 
 Works:
 Opinion:
+This piece of work is op art because the creator, Jesus Rafael, uses string or wires to hang and he paints parts of it. While it hangs onto the ceiling if forms a 3D shape which the audience can see. This is an op artwork because it isn't what it appears to be but because of the colors it makes it look like it is there.
