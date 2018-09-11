@@ -35,7 +35,7 @@ still bring out what defines op art by putting their own spin to it, either by c
 The three best known op artists are probably Bridget Riley, Victor Vasarely, and Richard Anuszkiewicz.
 So... I don't want you to choose any of them because you'd probably all have them in your list.
 
-1.![alt text](../images/ " ")
+1.![alt text](../images/Sinjerli Variation IV.jpg " ")
 
 Name: Jean-Pierre Yvaral
 Date of Birth: January 25, 1934 - August 2, 2002,
