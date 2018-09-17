@@ -36,7 +36,9 @@ The three best known op artists are probably Bridget Riley, Victor Vasarely, and
 So... I don't want you to choose any of them because you'd probably all have them in your list.
 
 1.
-![alt text](../T13900_9.jpg)
+My images don't work so you can either use this link or the image is also provided in the repository 
+https://www.google.com/imgres?imgurl=https://www.tate.org.uk/art/images/work/T/T13/T13900_8.jpg&imgrefurl=https://www.tate.org.uk/art/artists/a-z?page=51&h=255&w=256&tbnid=h6CQc0s2juTTAM&tbnh=224&tbnw=225&usg=__SfRFsV2Ufi3ulrTtaNG5xpTkFnE=&hl=en&docid=imC9g7HmnIcbgM
+
 
 Name: Jean-Pierre Yvaral
 Date of Birth: January 25, 1934 - August 2, 2002,
@@ -46,7 +48,7 @@ Opinion:
 I love his works because they give off the VHS static type of aesthetic with all the different toned down colors he uses. some appear to look like it came from a game, such as pac-man.
 
 2.
-![alt text](../Sinjerli Variation IV.jpg " ")
+https://www.google.com/search?safe=strict&sa=G&hl=en&q=basic+skills+in+english+%5Bbook%5D&tbm=isch&tbs=simg:CAQSlQEJWk7LSwEMWuYaiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIomAqeCuQGpxSyFKYKlwqzFLgDtAqUKZEpmzWZKZYpkynbJJo17yGaLBowLwDEairbUgTJOyzAlvbg8MgcmDoO2oCJzxBdnW9KmdbUptKZNXxPsfJGMsEszgBEIAQMCxCOrv4IGgoKCAgBEgRbQ6E7DA&ved=0ahUKEwiLoZ_VwcLdAhUCEqwKHXt4CFUQwg4IJygA&biw=1448&bih=881#imgrc=IIwwMTmUvXSVXM:
 
 Name: Frank Stella
 Date of Birth: May 12, 1936
@@ -56,7 +58,7 @@ Opinion:
 He uses color to make it seem that some objects are infront of another but it is only the color that is being changed if you look closely at the design.
 
 3.
-![alt text](../ve_soto_03_im.jpg)
+https://www.google.com/search?safe=strict&sa=G&hl=en&q=jesus+rafael+soto+obras&tbm=isch&tbs=simg:CAQSlwEJEw3lvfqwLqMaiwELEKjU2AQaBAgVCAsMCxCwjKcIGmIKYAgDEijUA9wFhgGyAdkFkQGUAYUBiAGzAeIn_1yfxJ-cn4SegP_1An7TXzJ_1c1GjAuAGv05Y7mgOhwhJo07a3qGGatBRU0rDZbQS1gAixpY_1Qh05o5aYa2qTzqtRi2Ar0gBAwLEI6u_1ggaCgoICAESBOUt9PIM&ved=0ahUKEwjUwJjqwcLdAhUOPK0KHZBvAnAQwg4IJygA&biw=1448&bih=881#imgrc=FtX8mmnp5vZkUM:
 
 Name:Jesús Rafael Soto
 Date of Birth: June 5, 1923- January 14, 2005
