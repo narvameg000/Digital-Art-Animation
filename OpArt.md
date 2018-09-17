@@ -35,7 +35,7 @@ still bring out what defines op art by putting their own spin to it, either by c
 The three best known op artists are probably Bridget Riley, Victor Vasarely, and Richard Anuszkiewicz.
 So... I don't want you to choose any of them because you'd probably all have them in your list.
 
-1.![alt text](../images/Sinjerli Variation IV.jpg " ")
+1.![alt text](../Digital-Art-Animation/T13900_9.jpg" ")
 
 Name: Jean-Pierre Yvaral
 Date of Birth: January 25, 1934 - August 2, 2002,
@@ -44,7 +44,7 @@ Works:
 Opinion:
 I love his works because they give off the VHS static type of aesthetic with all the different toned down colors he uses. some appear to look like it came from a game, such as pac-man.
 
-2.![alt text](../images/ " ")
+2.![alt text](../Digital-Art-Animation/Sinjerli Variation IV.jpg " ")
 
 Name: Frank Stella
 Date of Birth: May 12, 1936
@@ -53,7 +53,7 @@ Works:
 Opinion:
 He uses color to make it seem that some objects are infront of another but it is only the color that is being changed if you look closely at the design.
 
-3.![alt text](../images/ " ")
+3.![alt text](../Digital-Art-Animation/ve_soto_03_im.jpg " ")
 
 Name:Jesús Rafael Soto
 Date of Birth: June 5, 1923- January 14, 2005
